@@ -15,7 +15,7 @@
   <ul class="nav nav-pills nav-justified">
     <li class="active"><a href="http://111001.cc">111001.cc</a></li>
     <li><a href="http://52.27.10.197" target ="_blank">ec2</a></li>
-      <li><a href="http://iuomo.github.io/">@iuomo</a></li>
+      <li><a href="http://craigcoleman.github.io/">@cc.github.io</a></li>
    <li><a href="logs/">logs</a></li>
 	 <li><a href="android/" target = "_blank">andriod</a></li>
     <li><a href="gentoo/" target = "_blank">gentoo</a></li>
@@ -27,7 +27,7 @@ AWS
 https://forums.aws.amazon.com
 https://console.aws.amazon.com/iam
 https://www.youtube.com/watch?v=T64qFcyTGAU
-ec2 52.27.10.197
+old ec2 52.27.10.197
 
 ssh login
 
@@ -49,7 +49,7 @@ cwc@ip-172-31-37-69 ~ $ git config --list
 user.name=githubusername
 user.email=githubusername@gmail.com
 cwc@ip-172-31-37-69 ~ $ git clone https://github.com/craigcoleman/html.git  (this is public)
-
+new 
 52.33.65.15
 
 </pre>
