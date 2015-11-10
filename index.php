@@ -50,6 +50,8 @@ user.name=githubusername
 user.email=githubusername@gmail.com
 cwc@ip-172-31-37-69 ~ $ git clone https://github.com/craigcoleman/html.git  (this is public)
 
+52.33.65.15
+
 </pre>
 </body>
 </html>
