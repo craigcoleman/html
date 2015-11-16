@@ -14,7 +14,7 @@
 
   <ul class="nav nav-pills nav-justified">
     <li class="active"><a href="http://111001.cc">111001.cc</a></li>
-    <li><a href="http://52.27.10.197" target ="_blank">ec2</a></li>
+    <li><a href="http://52.33.221.110" target ="_blank">ec2 gentoo 1cp 2gb</a></li>
       <li><a href="http://craigcoleman.github.io/">@cc.github.io</a></li>
    <li><a href="logs/">logs</a></li>
 	 <li><a href="android/" target = "_blank">andriod</a></li>
