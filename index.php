@@ -14,11 +14,13 @@
 
   <ul class="nav nav-pills nav-justified">
     <li class="active"><a href="http://111001.cc">111001.cc</a></li>
-    <li><a href="http://52.33.221.110" target ="_blank">ec2 gentoo 1cp 2gb</a></li>
-      <li><a href="http://craigcoleman.github.io/">@cc.github.io</a></li>
+      <li><a 
+href="http://craigcoleman.github.io/">c*c*.github.io</a></li>
    <li><a href="logs/">logs</a></li>
-	 <li><a href="android/" target = "_blank">andriod</a></li>
+<li><a href="android/" target = "_blank">andriod</a></li>
     <li><a href="gentoo/" target = "_blank">gentoo</a></li>
+<li><a href="http://111001.cc:8080" target = "_blank"> 111001.cc:8080 </a></li>
+
   </ul>
 </div>
 <pre>
@@ -27,6 +29,8 @@ AWS
 https://forums.aws.amazon.com
 https://console.aws.amazon.com/iam
 https://www.youtube.com/watch?v=T64qFcyTGAU
+15117 - 0448 azzerare time  dropped gentoo 1cpu 2 gb
+
 old ec2 52.27.10.197
 
 ssh login
