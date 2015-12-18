@@ -24,6 +24,9 @@ href="http://craigcoleman.github.io/">c*c*.github.io</a></li>
   </ul>
 </div>
 <pre>
+<hr />
+<img src = "centos-sda-error.jpg" width = "800">
+
 
 AWS
 https://forums.aws.amazon.com
